@@ -17,7 +17,13 @@ _Built with the tools and technologies:_
 ![EJS](https://img.shields.io/badge/EJS-87C232?style=flat)
 
 ---
+## 🌐 Deployed Link
 
+🚀 **Live Demo:** [Krishi Kendra Deployment](https://new-agritech.onrender.com)
+
+> Explore the live version of the platform and experience AI-powered agricultural assistance in action.
+
+---
 ## 📑 Table of Contents
 
 
